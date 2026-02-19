@@ -185,7 +185,7 @@ print(ask("What is the mechanism of action of metformin?"))
 ```
 medical-chatbot/
 │
-├── medical_chatbot_Assistant.ipynb    # Main notebook — complete pipeline
+├── medical_chatbot_Assistant.ipynb    # Main notebook & complete pipeline
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 │
