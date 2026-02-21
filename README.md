@@ -4,7 +4,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace%20Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/Numwali/medical-chatbot-lora)
 [![Model](https://img.shields.io/badge/Model-Numwali%2Fmedical--chatbot--lora-yellow?logo=huggingface)](https://huggingface.co/Numwali/medical-chatbot-lora)
 
-A domain-specific medical question-answering assistant built by fine-tuning **google/flan-t5-base** with **LoRA (Low-Rank Adaptation)** on 1,800 clinical flashcard Q&A pairs. The fine-tuned model achieves a **+613.5% improvement in ROUGE-L** over the unmodified base model and is permanently deployed on Hugging Face Spaces.
+A domain-specific medical question-answering assistant built by fine-tuning **google/flan-t5-base** with **LoRA (Low-Rank Adaptation)** on 1,800 clinical flashcard Q&A pairs. The fine-tuned model achieves a **+616.67% improvement in ROUGE-L** over the unmodified base model and is permanently deployed on Hugging Face Spaces.
 
 ---
 
@@ -96,7 +96,7 @@ Experiment 4 was selected as the best configuration and retrained on the full 1,
 |---|---|---|---|
 | ROUGE-1 | 0.0589 | 0.438 | +643% |
 | ROUGE-2 | 0.0141 | 0.301 | +2035% |
-| ROUGE-L | 0.0542 | 0.387 | **+613.5%** |
+| ROUGE-L | 0.0542 | 0.387 | **+616.67** |
 | BLEU | 0.0000 | 0.107 | — |
 | Perplexity | 7.09 | 5.14 | -27.5% |
 
