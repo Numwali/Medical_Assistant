@@ -1,6 +1,6 @@
 # 🏥 Medical Q&A Chatbot (Fine-Tuning Flan-T5-Base with LoRA)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/medical-chatbot/blob/main/medical_chatbot_Assistant.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Numwali/medical-chatbot/blob/main/medical_chatbot_Assistant.ipynb)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace%20Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/Numwali/medical-chatbot-lora)
 [![Model](https://img.shields.io/badge/Model-Numwali%2Fmedical--chatbot--lora-yellow?logo=huggingface)](https://huggingface.co/Numwali/medical-chatbot-lora)
 
